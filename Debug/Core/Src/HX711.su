@@ -1,0 +1,14 @@
+HX711.c:11:7:begin	16	static
+HX711.c:19:7:is_ready	8	static
+HX711.c:27:7:set_gain	16	static
+HX711.c:46:7:read	40	static
+HX711.c:114:7:read_average	24	static
+HX711.c:125:9:get_value	16	static
+HX711.c:132:8:get_units	24	static
+HX711.c:140:7:tare	24	static
+HX711.c:147:7:set_scale	16	static
+HX711.c:153:8:get_scale	4	static
+HX711.c:158:7:set_offset	16	static
+HX711.c:164:7:get_offset	4	static
+HX711.c:170:7:power_down	8	static
+HX711.c:176:7:power_up	8	static
